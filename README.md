@@ -1,4 +1,4 @@
-### 1. Predicting Employee Attrition using R
+# Predicting Employee Attrition using R
 
 **Objective:** To predict employees likely to leave
 
